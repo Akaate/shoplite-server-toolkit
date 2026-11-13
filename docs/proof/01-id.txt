@@ -1,0 +1,1 @@
+uid=1001(ava) gid=1002(ava) groups=1002(ava),1001(shopops)

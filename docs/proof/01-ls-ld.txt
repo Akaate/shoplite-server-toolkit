@@ -1,0 +1,1 @@
+drwxrws--- 2 root shopops 4096 Nov 12 15:10 /srv/shoplite

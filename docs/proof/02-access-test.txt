@@ -1,0 +1,3 @@
+hello from ava
+tom was here
+ls: cannot open directory '/srv/shoplite': Permission denied
